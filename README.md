@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning learning Algorithm & Data Structure
 - 😄 Pronouns: This is My GitHub profile,Have fun!
-- 🔗 Blog: http://htwinkle.cn
+- 🔗 INDEX: http://htwinkle.cn
+- 🔗 Blog: http://doc.htwinkle.cn
