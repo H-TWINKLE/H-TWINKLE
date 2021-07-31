@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 - 🤵 TWINKLE
 - 💬 热爱可抵岁月漫长
-- 🔗 INDEX: http://htwinkle.cn
+- 🔗 Index: http://htwinkle.cn
 - 🎈 Blog: http://doc.htwinkle.cn
